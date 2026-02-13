@@ -1,0 +1,4 @@
+- [[Types of Data]]
+- [[Population vs Sample]]
+- [[Descriptive Statistics]]
+- 
